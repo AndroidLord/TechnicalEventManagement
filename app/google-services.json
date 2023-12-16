@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996229637652",
+    "project_id": "technical-event-management",
+    "storage_bucket": "technical-event-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996229637652:android:df8fc6e69e548d2a15a901",
+        "android_client_info": {
+          "package_name": "com.example.technicaleventmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR2BnV-X_OALKl1zE1mz8ZdiXA-wkllTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
